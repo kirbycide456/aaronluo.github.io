@@ -331,7 +331,7 @@
                 <br>
 				<br>
                 <!-- Portfolio Modal - Image -->
-				<img class="img-fluid rounded mb-5" src="img/Machine_Learning.png" alt="" style="width:100%">
+				<img class="img-fluid rounded mb-5" src="img/machine learning.png" alt="" style="width:100%">
 				<!-- Portfolio Modal - Text -->
                 <p class="mb-5">This project primarily involves an empirical comparative analysis between several different popular machine learning algorithms, such as the K-Nearest Neighbors, Support Vector Machines, and Random Forest algorithms.</p>
                 <a href="pdf/Final Cogs118A.pdf" target="_blank" class="btn btn-black"> Click To Read More </a>
