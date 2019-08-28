@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Aaron Luo</title>
+
+  <!-- Custom fonts for this theme -->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+
+  <!-- Theme CSS -->
+  <link href="css/freelancer2.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg bg-black text-uppercase fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand text-white js-scroll-trigger" href="prototype.html">Aaron Luo</a>
+      <button class="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        Menu
+        <i class="fas fa-bars"></i>
+      </button>
+    </div>
+  </nav>
+ 
+  <section class = "page-section" id="about">
+	<div class="container">
+	<h2 class = "page-section-heading text-center">Essay Title</h2>
+	
+	<div class="row">
+		<div class = "m1-auto">
+			<p class="lead"> Abstract: (Using which methodology and to predict what?) (optional)
+Recently, theater attendance rate in the US has been dropping at a worrying rate, with 2017 box office returns hitting around $11 billion. This has been the lowest since 1995 (adjusted for inflation).  Ticket rates have been higher than ever in an effort to make up for this disparity. Because of this, we are looking for ways to reinvigorate American interest in the theater by using  linear regression to find the biggest contributing factors to box office sales. 
+</p>
+		</div>
+ 
+ </body>
